@@ -1,0 +1,34 @@
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card1 {
+  background-color: black;
+  border-radius: 10px;
+  text-align: center;
+  padding: 20px;
+}
+.card2 {
+  border: 2px solid black;
+  background-color: white;
+  border-radius: 10px;
+  text-align: center;
+  padding: 20px;
+}
+
+.heading1 {
+  color: white;
+}
+.heading2 {
+  color: black;
+}
+
+.button {
+  height: 40px;
+  width: 90px;
+  border-radius: 6px;
+  border-width: 0px;
+}
